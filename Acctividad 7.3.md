@@ -5,7 +5,7 @@ Un sistema de información tiene como principal objetivo la gestión, y administ
 Los componentes del sistema de información, permiten una serie de procesos que consisten en: la entrada de los datos, la gestión y el procesamiento de estos, el almacenamiento y la salida para todos aquellos interesados que deseen tener acceso a este tipo de información.
 
 Los elementos del sistema de información trabajan de manera conjunta y con los mismos objetivos para conseguir el uso y la correcta administración de cualquier información concreta.
-## Concepto de [Ciclo de vida del software](https://educacionadistancia.juntadeandalucia.es/centros/jaen/mod/resource/view.php?id=37628 "Ciclo de Vida del Software")
+## Concepto de Ciclo de vida del software
 Llamamos ciclo de vida de software a la serie de etapas por las que pasa un software, desde su planificación hasta su uso y mantenimiento.
 
 - Planificación.
@@ -34,7 +34,7 @@ Conseguiremos detectar los fallos que se hayan cometido en etapas anteriores, pa
 
 Esta fase del ciclo de vida del software hay que repetirla tantas veces como sea necesaria, ya que la calidad y estabilidad final del software dependerá de esta fase.
 
-- ` `Instalación
+- Instalación
 
 Se instalará el software en el entorno en el que vaya a ser explotado.
 
@@ -60,7 +60,7 @@ suelen tener las siguientes características:
 
 \- *Parametrizable:* con capacidad de adaptarse a las necesidades concretas de nada empresa. 
 
-\- Escalable: con capacidad de crecimiento. 
+\- *Escalable*: con capacidad de crecimiento. 
 
 Un CRM (Customer Relationship Management) es una aplicación informática, en ocasiones integrada en las ERP, orientada a registrar la información de los clientes, de ventas y principalmente para el marketing. Los CRM podrían ser aplicaciones que se usan dependiendo del seguimiento de los clientes, la oferta, campañas publicitarias.
 ## Módulos que conforman un ERP
@@ -74,11 +74,12 @@ Un CRM (Customer Relationship Management) es una aplicación informática, en oc
 1. Módulo de marketing: Con un buen software de marketing, captas clientes, enviando productos, haciendo seguimientos de revisión, etc. 
 1. Módulo TPV: Este módulo es una parte fundamental, porque en ocasiones es necesario realizar una venta desde un terminal, Tablet, móvil, etc. Por ello, esta ERP potente y flexible, bastará con tener un navegador conectado al servidor de la empresa. De este modo, puede tenerse en tiempo real el inventario y es posible realizar hasta el asiento contable de la operación. 
 ## Realice una tabla en la que identifique aplicaciones ERP comerciales y open source con los siguientes datos:
-- Nombre
-- URL
-- País de desarrollo
-- Lenguaje de programación utilizado
-- Tipo de licencia
+1. Nombre
+1. URL
+1. País de desarrollo
+1. Lenguaje de programación utilizado
+1. Tipo de licencia
+
 - *Dolibarr:* es un software modular para gestionar empresas pequeñas y medianas, autónomos o asociaciones. Combina una ERP con una CRM. Es open source (código abierto) y hay que ejecutarlo en un servidor. 
 
 Url: <https://www.dolibarr.es/>
